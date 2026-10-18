@@ -1,0 +1,5 @@
+interface:
+  display_name: "Feynman Why"
+  short_description: "Explain why, one useful level at a time"
+policy:
+  allow_implicit_invocation: true
